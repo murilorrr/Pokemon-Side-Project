@@ -1,11 +1,12 @@
-# Pokemon-Side-Project
-
-<a href=""><img src="https://raw.githubusercontent.com/HybridShivam/pokedex-angular-app/master/pokedex.png" width="250px"></a>
-
 <p align="center">
-   A SPA (Single Page Aplication) Built using REACT.
-   <br>
-   Built using the PokéAPI.
+
+   <a href=""><img src="https://raw.githubusercontent.com/HybridShivam/pokedex-angular-app/master/pokedex.png" width="250px"></a>
+
+   <p align="center">
+      A SPA (Single Page Aplication) Built using REACT.
+      <br>
+      Built using the PokéAPI.
+</p>
   
    <p align="center">Website : <a href="">MY PAGE</a><br>[For best experience use Chrome or any other Chromium-based browser]</p>
 </p>
